@@ -5,7 +5,7 @@
 The data required to run the [analysis](https://amoreo71.github.io/freshwater_snail_faecal/Snail_faecal.html) in R can be found within the 'data' folder.
 
 
-This work is available in preprint on *BioRxiv*:
+This work is available in preprint on *bioRxiv*:
 
 *Angus M. O’Ferrall, Alexandra Juhász, Sam Jones, Peter Makaula, Gladys Namacha, Shaali Ame, David Oguttu, Aidan Foo, Sekeleghe A. Kayuni, James E. LaCourse, Janelisa Musaya, J. Russell Stothard, Adam P. Roberts*
 
