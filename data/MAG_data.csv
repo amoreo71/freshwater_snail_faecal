@@ -1,0 +1,30 @@
+﻿Sample,Bin,Completeness,Contamination,Quality,Length,Contigs,GC,N50,Phylum,Class,Order,Family,Genus,Species,Administrative_region,Water_type,Water_flow,no_ARGs,no_IS
+M1,1,73.6026624,0.508701473,Medium,1954751,412,60.64,4803,Proteobacteria,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Duganella,,Malawi,Stream,Moving,0,0
+M1,3,70.09433962,0.530660377,Medium,2748090,549,66.06,5352,Proteobacteria,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Curvibacter,,Malawi,Stream,Moving,0,0
+M2,3,56.4569173,0.200267023,Medium,1058305,260,64.18,4101,Proteobacteria,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Limnohabitans,,Malawi,Stagnant,Static,0,1
+M5,1,96.03104369,0.794569246,High,4270733,314,46.4,18724,Proteobacteria,Gammaproteobacteria,Enterobacterales,Shewanellaceae,Shewanella,Shewanella xiamenensis,Malawi,Stagnant,Static,1,1
+M5,2,55.06622517,0.556893438,Medium,1401008,348,37.96,4022,Firmicutes,Bacilli,Bacillales,Amphibacillaceae,Virgibacillus,,Malawi,Stagnant,Static,0,0
+M5,4,89.02439024,2.43902439,Medium,1567440,275,28.22,6463,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Arcobacteraceae,Aliarcobacter,,Malawi,Stagnant,Static,0,1
+M5,5,97.94520548,1.187214612,High,3197174,188,40.43,25770,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter tandoii,Malawi,Stagnant,Static,0,0
+M5,7,93.2748538,0.629779577,High,3658729,226,59.14,24407,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,,Malawi,Stagnant,Static,1,4
+M6,1,97.55555556,0.222222222,High,5711159,479,40.84,15772,Cyanobacteria,Cyanophyceae,Nostocaceae,Aphanizomenaceae,Trichormus,,Malawi,Stagnant,Static,0,5
+M6,4,57.75862069,0,Medium,1234117,284,64.41,4391,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Erythrobacter,,Malawi,Stagnant,Static,0,0
+Ug1,3,90.22556391,0.37593985,High,634516,15,28.56,102350,Firmicutes,Bacilli,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,GCF-1484045 sp001484045,Uganda,Lake,Moving,0,0
+Ug1,6,84.13793103,1.724137931,Medium,4311860,238,67.1,25959,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,Stenotrophomonas maltophilia,Uganda,Lake,Moving,2,1
+Ug1,7,55.17241379,0,Medium,2966031,444,67.57,7791,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,Stenotrophomonas bentonitica,Uganda,Lake,Moving,0,0
+Ug2,4,73.42089728,1.472634508,Medium,1837318,398,67.1,4516,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas nasdae,Uganda,Lake,Moving,0,0
+Ug2,7,76.79990575,0.779727096,Medium,2545361,506,60.02,5299,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas veronii,Uganda,Lake,Moving,0,2
+Ug2,8,68.94185164,0.687250996,Medium,2849397,600,66.63,4805,Proteobacteria,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Massilia,,Uganda,Lake,Moving,0,1
+Ug3,3,95.32163743,0.596707724,High,4194484,151,59.67,47367,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas jandaei,Uganda,Stagnant,Static,4,2
+Ug3,4,51.6748366,0.245098039,Medium,1074170,267,34.98,3969,Bacteroidota,Bacteroidia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium aquaticum,Uganda,Stagnant,Static,0,0
+Z1,1,85.08260745,1.169590643,Medium,2999203,531,60.17,6169,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas jandaei,Zanzibar,Stream,Moving,1,0
+Z1,3,90.39174641,1.973684211,High,2075278,348,48,6943,Firmicutes,Bacilli,Exiguobacterales,Exiguobacteraceae,Exiguobacterium,Exiguobacterium indicum,Zanzibar,Stream,Moving,0,0
+Z1,6,92.66004415,0.662251656,High,2394578,232,48.72,14148,Firmicutes,Bacilli,Exiguobacterales,Exiguobacteraceae,Exiguobacterium,Exiguobacterium profundum,Zanzibar,Stream,Moving,0,0
+Z3,1,52.30392157,0,Medium,878064,220,33.86,3952,Bacteroidota,Bacteroidia,Flavobacteriales,Weeksellaceae,Cloacibacterium,,Zanzibar,Stagnant,Static,0,0
+Z3,7,65.51724138,0,Medium,1390855,310,63.44,4559,Proteobacteria,Gammaproteobacteria,Burkholderiales,Chromobacteriaceae,Vogesella,,Zanzibar,Stagnant,Static,0,0
+Z4,1,74.81981982,1.171171171,Medium,1635759,362,59.2,4665,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas sp900156095,Zanzibar,Stagnant,Static,0,1
+Z4,3,63.79310345,0,Medium,1364570,295,33.8,4864,Bacteroidota,Bacteroidia,Flavobacteriales,Weeksellaceae,Cloacibacterium,,Zanzibar,Stagnant,Static,0,0
+Uk1,1,51.72413793,3.448275862,Medium,1644223,315,40.41,5564,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter bohemicus,UK,Stream,Moving,0,0
+Uk1,6,71.93877551,0,Medium,2829757,135,54.82,33047,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Serratia,Serratia fonticola,UK,Stream,Moving,0,2
+Uk1,9,51.75438596,1.754385965,Medium,2890241,360,60.1,10953,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sivasensis,UK,Stream,Moving,0,0
+Uk2,4,82.0966071,0.584795322,Medium,3398565,562,58.98,6860,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas sobria,UK,Stream,Moving,1,0
