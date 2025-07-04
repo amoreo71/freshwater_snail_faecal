@@ -2,7 +2,7 @@
 
 ## Data and code repository for freshwater snail faecal metagenomics study
 
-The data required to run the [analysis](code/Snail_faecal_V2.html) in R can be found within the 'data' folder.
+The data required to run the [analysis](Snail_faecal_V2.html) in R can be found within the 'data' folder.
 
 
 This work is available in preprint on *bioRxiv*:
